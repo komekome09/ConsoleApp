@@ -29,7 +29,7 @@
 *.exe
 *.out
 *.app
-test
+*test*
 
 
 ### Vim ###
